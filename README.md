@@ -1,4 +1,5 @@
-Projeto em C++ para resolver automaticamente matrizes do tipo sudoku skyscrapper.
+Proposta: Projeto em C++ para resolver automaticamente matrizes do tipo sudoku skyscrapper.
+
 Regras para solução:
 
 Sobre Skyscraper Sudoku
